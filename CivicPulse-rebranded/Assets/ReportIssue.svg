@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560">
+  <defs>
+    <linearGradient id="brand4" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#EA6A12"/>
+      <stop offset="100%" stop-color="#0F7A82"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="560" fill="#FAFAF9"/>
+  <rect width="900" height="64" fill="#ffffff"/>
+  <circle cx="40" cy="32" r="16" fill="url(#brand4)"/>
+  <text x="66" y="38" font-family="Space Grotesk, Arial, sans-serif" font-size="20" font-weight="700" fill="#1f2937">CivicPulse</text>
+
+  <text x="450" y="105" text-anchor="middle" font-family="Space Grotesk, Arial, sans-serif" font-size="24" font-weight="700" fill="#1f2937">Report an Issue</text>
+  <text x="450" y="128" text-anchor="middle" font-family="Arial" font-size="13" fill="#78716c">Help us keep your neighborhood in great shape</text>
+
+  <!-- form card -->
+  <rect x="150" y="155" width="600" height="365" rx="16" fill="#ffffff" stroke="#e7e5e4"/>
+
+  <text x="180" y="195" font-family="Arial" font-size="12" font-weight="600" fill="#44403c">Issue Type</text>
+  <rect x="180" y="205" width="260" height="38" rx="8" fill="#FFF7ED" stroke="#f5d9b8"/>
+  <text x="196" y="229" font-family="Arial" font-size="12" fill="#78716c">Select category ▾</text>
+
+  <text x="460" y="195" font-family="Arial" font-size="12" font-weight="600" fill="#44403c">Priority</text>
+  <rect x="460" y="205" width="260" height="38" rx="8" fill="#ECFEFF" stroke="#bfe8ea"/>
+  <text x="476" y="229" font-family="Arial" font-size="12" fill="#78716c">Medium ▾</text>
+
+  <text x="180" y="270" font-family="Arial" font-size="12" font-weight="600" fill="#44403c">Description</text>
+  <rect x="180" y="280" width="540" height="70" rx="8" fill="#fafaf9" stroke="#e7e5e4"/>
+  <text x="196" y="304" font-family="Arial" font-size="12" fill="#a8a29e">Describe the issue in a few sentences...</text>
+
+  <text x="180" y="375" font-family="Arial" font-size="12" font-weight="600" fill="#44403c">Location</text>
+  <rect x="180" y="385" width="540" height="80" rx="8" fill="#F0FDF4" stroke="#bbf7d0"/>
+  <circle cx="450" cy="425" r="8" fill="#EA6A12"/>
+  <text x="450" y="450" text-anchor="middle" font-family="Arial" font-size="11" fill="#4b5563">Tap map to drop a pin</text>
+
+  <rect x="180" y="480" width="260" height="18" rx="4" fill="#e7e5e4"/>
+  <rect x="460" y="480" width="140" height="40" rx="10" fill="url(#brand4)"/>
+  <text x="530" y="505" text-anchor="middle" font-family="Arial" font-size="13" font-weight="600" fill="#ffffff">Submit Report</text>
+
+  <text x="450" y="545" text-anchor="middle" font-family="Arial" font-size="12" fill="#9ca3af">CivicPulse — Report Issue Form Preview (redesigned theme)</text>
+</svg>

@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560">
+  <defs>
+    <linearGradient id="brand2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#EA6A12"/>
+      <stop offset="100%" stop-color="#0F7A82"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="560" fill="#FAFAF9"/>
+  <rect width="900" height="64" fill="#ffffff"/>
+  <circle cx="40" cy="32" r="16" fill="url(#brand2)"/>
+  <text x="66" y="38" font-family="Space Grotesk, Arial, sans-serif" font-size="20" font-weight="700" fill="#1f2937">CivicPulse</text>
+  <circle cx="850" cy="32" r="16" fill="#e7e5e4"/>
+  <text x="850" y="37" text-anchor="middle" font-family="Arial" font-size="13" fill="#57534e">U</text>
+
+  <text x="40" y="105" font-family="Space Grotesk, Arial, sans-serif" font-size="24" font-weight="700" fill="#1f2937">Welcome back, User</text>
+  <text x="40" y="130" font-family="Arial" font-size="13" fill="#78716c">Here's what's happening with your reported issues</text>
+
+  <rect x="40" y="160" width="170" height="90" rx="12" fill="#FFF0E0" stroke="#f5d9b8"/>
+  <text x="60" y="195" font-family="Space Grotesk, Arial, sans-serif" font-size="24" font-weight="700" fill="#EA6A12">4</text>
+  <text x="60" y="216" font-family="Arial" font-size="12" fill="#78716c">Pending</text>
+
+  <rect x="225" y="160" width="170" height="90" rx="12" fill="#E7F7F8" stroke="#bfe8ea"/>
+  <text x="245" y="195" font-family="Space Grotesk, Arial, sans-serif" font-size="24" font-weight="700" fill="#0F7A82">2</text>
+  <text x="245" y="216" font-family="Arial" font-size="12" fill="#78716c">In Progress</text>
+
+  <rect x="410" y="160" width="170" height="90" rx="12" fill="#EEF9EE" stroke="#c7ecc8"/>
+  <text x="430" y="195" font-family="Space Grotesk, Arial, sans-serif" font-size="24" font-weight="700" fill="#2f9e44"/>
+  <text x="430" y="195" font-family="Space Grotesk, Arial, sans-serif" font-size="24" font-weight="700" fill="#2f9e44">11</text>
+  <text x="430" y="216" font-family="Arial" font-size="12" fill="#78716c">Resolved</text>
+
+  <rect x="595" y="160" width="265" height="90" rx="12" fill="url(#brand2)"/>
+  <text x="615" y="197" font-family="Arial" font-size="13" font-weight="600" fill="#ffffff">+ Report a New Issue</text>
+  <text x="615" y="222" font-family="Arial" font-size="11" fill="#ffe9d6">Takes less than a minute</text>
+
+  <!-- issue list -->
+  <text x="40" y="295" font-family="Space Grotesk, Arial, sans-serif" font-size="16" font-weight="700" fill="#1f2937">Recent Reports</text>
+
+  <g font-family="Arial">
+    <rect x="40" y="315" width="820" height="60" rx="10" fill="#ffffff" stroke="#e7e5e4"/>
+    <rect x="56" y="331" width="28" height="28" rx="6" fill="#FFF0E0"/>
+    <text x="120" y="341" font-size="13" font-weight="600" fill="#1f2937">Pothole on MG Road</text>
+    <text x="120" y="360" font-size="11" fill="#a8a29e">Reported 2 days ago</text>
+    <rect x="740" y="335" width="90" height="24" rx="12" fill="#FFF0E0"/>
+    <text x="785" y="351" text-anchor="middle" font-size="11" fill="#c2410c">Pending</text>
+
+    <rect x="40" y="385" width="820" height="60" rx="10" fill="#ffffff" stroke="#e7e5e4"/>
+    <rect x="56" y="401" width="28" height="28" rx="6" fill="#E7F7F8"/>
+    <text x="120" y="411" font-size="13" font-weight="600" fill="#1f2937">Broken streetlight, Sector 12</text>
+    <text x="120" y="430" font-size="11" fill="#a8a29e">Reported 5 days ago</text>
+    <rect x="720" y="405" width="110" height="24" rx="12" fill="#E7F7F8"/>
+    <text x="775" y="421" text-anchor="middle" font-size="11" fill="#0e6a72">In Progress</text>
+
+    <rect x="40" y="455" width="820" height="60" rx="10" fill="#ffffff" stroke="#e7e5e4"/>
+    <rect x="56" y="471" width="28" height="28" rx="6" fill="#EEF9EE"/>
+    <text x="120" y="481" font-size="13" font-weight="600" fill="#1f2937">Garbage overflow, Park Street</text>
+    <text x="120" y="500" font-size="11" fill="#a8a29e">Resolved 1 week ago</text>
+    <rect x="745" y="475" width="85" height="24" rx="12" fill="#EEF9EE"/>
+    <text x="787" y="491" text-anchor="middle" font-size="11" fill="#2f9e44">Resolved</text>
+  </g>
+
+  <text x="450" y="540" text-anchor="middle" font-family="Arial" font-size="12" fill="#9ca3af">CivicPulse — Citizen Dashboard Preview (redesigned theme)</text>
+</svg>

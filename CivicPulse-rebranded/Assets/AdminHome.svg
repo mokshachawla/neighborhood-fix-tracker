@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560">
+  <defs>
+    <linearGradient id="brand3" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#EA6A12"/>
+      <stop offset="100%" stop-color="#0F7A82"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="560" fill="#F7F7F5"/>
+
+  <!-- sidebar -->
+  <rect width="210" height="560" fill="#1C2B2E"/>
+  <circle cx="40" cy="36" r="14" fill="url(#brand3)"/>
+  <text x="62" y="41" font-family="Space Grotesk, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff">CivicPulse</text>
+  <text x="30" y="45" font-family="Arial" font-size="10" fill="#8fb0ae"> </text>
+
+  <rect x="16" y="90" width="178" height="36" rx="8" fill="url(#brand3)"/>
+  <text x="34" y="112" font-family="Arial" font-size="13" fill="#ffffff">Dashboard</text>
+  <text x="34" y="152" font-family="Arial" font-size="13" fill="#c7d9d8">All Issues</text>
+  <text x="34" y="192" font-family="Arial" font-size="13" fill="#c7d9d8">Citizens</text>
+  <text x="34" y="232" font-family="Arial" font-size="13" fill="#c7d9d8">Analytics</text>
+  <text x="34" y="272" font-family="Arial" font-size="13" fill="#c7d9d8">Settings</text>
+
+  <!-- top bar -->
+  <rect x="210" y="0" width="690" height="64" fill="#ffffff"/>
+  <text x="240" y="38" font-family="Space Grotesk, Arial, sans-serif" font-size="18" font-weight="700" fill="#1f2937">Admin Overview</text>
+  <circle cx="860" cy="32" r="15" fill="#e7e5e4"/>
+
+  <!-- stat cards -->
+  <g font-family="Space Grotesk, Arial, sans-serif">
+    <rect x="240" y="90" width="150" height="90" rx="12" fill="#ffffff" stroke="#e7e5e4"/>
+    <text x="258" y="130" font-size="26" font-weight="700" fill="#EA6A12">312</text>
+    <text x="258" y="152" font-family="Arial" font-size="11" fill="#78716c">Open Issues</text>
+
+    <rect x="405" y="90" width="150" height="90" rx="12" fill="#ffffff" stroke="#e7e5e4"/>
+    <text x="423" y="130" font-size="26" font-weight="700" fill="#0F7A82">88</text>
+    <text x="423" y="152" font-family="Arial" font-size="11" fill="#78716c">In Progress</text>
+
+    <rect x="570" y="90" width="150" height="90" rx="12" fill="#ffffff" stroke="#e7e5e4"/>
+    <text x="588" y="130" font-size="26" font-weight="700" fill="#2f9e44">1,204</text>
+    <text x="588" y="152" font-family="Arial" font-size="11" fill="#78716c">Resolved</text>
+
+    <rect x="735" y="90" width="150" height="90" rx="12" fill="#ffffff" stroke="#e7e5e4"/>
+    <text x="753" y="130" font-size="26" font-weight="700" fill="#dc2626">14</text>
+    <text x="753" y="152" font-family="Arial" font-size="11" fill="#78716c">Overdue</text>
+  </g>
+
+  <!-- table -->
+  <rect x="240" y="205" width="645" height="300" rx="12" fill="#ffffff" stroke="#e7e5e4"/>
+  <text x="264" y="235" font-family="Space Grotesk, Arial, sans-serif" font-size="14" font-weight="700" fill="#1f2937">Recent Reports</text>
+  <line x1="240" y1="252" x2="885" y2="252" stroke="#f0efec"/>
+
+  <g font-family="Arial" font-size="12" fill="#44403c">
+    <text x="264" y="278">Water leakage, Elm Street</text>
+    <text x="580" y="278">Ravi K.</text>
+    <rect x="770" y="264" width="90" height="22" rx="11" fill="#FFF0E0"/>
+    <text x="815" y="279" text-anchor="middle" font-size="10" fill="#c2410c">Pending</text>
+
+    <text x="264" y="318">Illegal dumping, Lake View</text>
+    <text x="580" y="318">Anita S.</text>
+    <rect x="770" y="304" width="90" height="22" rx="11" fill="#E7F7F8"/>
+    <text x="815" y="319" text-anchor="middle" font-size="10" fill="#0e6a72">Assigned</text>
+
+    <text x="264" y="358">Traffic signal down, 5th Ave</text>
+    <text x="580" y="358">Karan M.</text>
+    <rect x="770" y="344" width="90" height="22" rx="11" fill="#FEE2E2"/>
+    <text x="815" y="359" text-anchor="middle" font-size="10" fill="#b91c1c">Overdue</text>
+
+    <text x="264" y="398">Fallen tree, Green Park</text>
+    <text x="580" y="398">Priya D.</text>
+    <rect x="770" y="384" width="90" height="22" rx="11" fill="#EEF9EE"/>
+    <text x="815" y="399" text-anchor="middle" font-size="10" fill="#2f9e44">Resolved</text>
+  </g>
+
+  <text x="565" y="540" text-anchor="middle" font-family="Arial" font-size="12" fill="#9ca3af">CivicPulse — Admin Dashboard Preview (redesigned theme)</text>
+</svg>
